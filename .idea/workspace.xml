@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55af96ff-a186-4730-8f68-773e78941dee" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123.html" afterPath="$PROJECT_DIR$/123.html" />
     </list>
     <ignored path="Hello-World.iws" />
@@ -46,8 +47,8 @@
       <file leaf-file-name="123.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/123.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.051630434">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -57,6 +58,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -284,8 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/123.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.051630434">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
         </state>
       </provider>
